@@ -1,11 +1,9 @@
 # 🌿 Be Rural - Plataforma para la Repoblación Rural 🏡
---
 
 ## 📖 Descripción
 
 Be Rural es una Web App desarrollada en Django como parte de la asignatura Proyectos II. Su misión es incentivar y facilitar la repoblación de municipios en riesgo de despoblación en España, conectando a potenciales nuevos residentes con localidades interesadas en atraer población.
 
---
 
 ## 🚀 Funcionalidades Principales
 
@@ -19,7 +17,6 @@ Be Rural es una Web App desarrollada en Django como parte de la asignatura Proye
 
 ✅ Interacción con la comunidad mediante foros y experiencias
 
---
 
 ## 🛠️ Tecnologías Utilizadas
 
