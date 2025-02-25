@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'BeRural.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'be-rural-app',
+        'NAME': 'postgres',
         'USER': 'adminuser',
         'PASSWORD': '1234asdfASDF',  # No se usa contraseña con AAD
         'HOST': 'be-rural-app.postgres.database.azure.com',
