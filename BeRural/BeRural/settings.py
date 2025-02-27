@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'beruralapp',
 ]
 
 MIDDLEWARE = [
@@ -83,8 +84,8 @@ WSGI_APPLICATION = 'BeRural.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'adminuser',
+        'NAME': 'berural',
+        'USER': 'adminuser@be-rural-app',
         'PASSWORD': '1234asdfASDF',  # No se usa contraseña con AAD
         'HOST': 'be-rural-app.postgres.database.azure.com',
         'PORT': '5432',
